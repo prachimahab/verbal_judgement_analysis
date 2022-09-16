@@ -1,0 +1,17 @@
+{
+    "dbPath": "/Users/prachi/Documents/depth_duration/kinect2data_subset/003092_2014-06-24_21-01-49_094959634447_rgbf000049-resize",
+    "imagePath": "/Users/prachi/Documents/depth_duration/kinect2data_subset/003092_2014-06-24_21-01-49_094959634447_rgbf000049-resize/image/0000049.jpg",
+    "objects": [
+        {
+            "name": "table",
+            "dbID": 2,
+            "crossing_point": [
+                {
+                    "x": 364,
+                    "y": 277.08512820512817,
+                    "depth": 1.666
+                }
+            ]
+        }
+    ]
+}
